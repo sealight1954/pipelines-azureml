@@ -1,5 +1,5 @@
 variables:
-  ml-ws-connection: 'sealighttkyk1954outlook.onmicrosoft.com' # Workspace Service Connection name
+  ml-ws-connection: '2f590de7-461d-4940-999c-a5cf885bdbd0' # Workspace Service Connection name
   ml-ws: 'ml-trial-20210930-1' # AML Workspace name
   ml-rg: 'myresource20210930_1' # AML resource Group name
   ml-ct: 'mygpucomputer' # AML Compute cluster name
